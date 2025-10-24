@@ -35,46 +35,5 @@ bank-application/
 └── README.md
 
 
----
 
-## ⚙️ Features
-- Create and manage customer accounts  
-- Deposit and withdraw funds  
-- Transfer money between accounts  
-- Handle exceptions gracefully  
-- Modular and maintainable architecture  
 
----
-
-## 🚀 Getting Started
-```bash
-git clone https://github.com/your-username/bank-application.git
-cd bank-application
-javac app/main/Main.java
-java app.main.Main
-
----
-
-## 🛠️ Technologies Used
-
-Java
-
-Object-Oriented Programming (OOP)
-
-Exception Handling
-
-Repository Pattern
-
-'''
-
-🤝 Contributing
-
-Fork the repository
-
-Create a new branch (feature/your-feature)
-
-Commit your changes
-
-Push to your branch
-
-Open a Pull Request
