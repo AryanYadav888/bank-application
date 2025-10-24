@@ -6,6 +6,7 @@ This project follows a layered structure for better scalability, readability, an
 ---
 
 ## 📁 Project Structure
+```
 bank-application/
 │
 ├── app/
@@ -33,7 +34,7 @@ bank-application/
 │ └── TransactionRepository.java
 │
 └── README.md
-
+```
 ---
 
 
