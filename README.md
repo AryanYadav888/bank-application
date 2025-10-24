@@ -38,4 +38,22 @@ bank-application/
 ---
 
 
+---
+
+## ⚙️ Features
+- Create and manage customer accounts  
+- Deposit and withdraw funds  
+- Transfer money between accounts  
+- Handle exceptions gracefully  
+- Modular and maintainable architecture  
+
+---
+
+## 🚀 Getting Started
+```bash
+git clone https://github.com/AryanYadav888/bank-application.git
+cd bank-application
+javac app/main/Main.java
+java app.main.Main
+
 
